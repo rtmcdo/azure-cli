@@ -1,5 +1,4 @@
 
-
 #set subscription
 az account set --subscription "Visual Studio Enterprise"
 
